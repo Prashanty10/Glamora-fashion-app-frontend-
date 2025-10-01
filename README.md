@@ -22,7 +22,8 @@ This project includes **Welcome, Login, Home, Product, Profile, Cart, Categories
 
 <p align="center">
   <img src="screenshots/welcome.jpg" width="200" />
-  <img src="screenshots/login.jpg" width="200" />
+  <img src="screenshots/Login.jpg" width="200" />
+  <img src="screenshots/Register.jpg" width="200" />
   <img src="screenshots/homepage.jpg" width="200" />
   <img src="screenshots/productdetails.jpg" width="200" />
 </p>
