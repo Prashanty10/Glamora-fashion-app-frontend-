@@ -52,5 +52,5 @@ This project includes **Welcome, Login, Home, Product, Profile, Cart, Categories
 
 ---
 
-## 📁 Project Structure
+
 
