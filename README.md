@@ -1,4 +1,4 @@
-# 👗 Glamora Fashion App (Frontend)
+#  Glamora Fashion App (Frontend)
 
 A mobile shopping app built with **React Native** and **Expo**, providing a full-featured fashion shopping experience.  
 This project includes **Welcome, Login, Home, Product, Profile, Cart, Categories pages**, and promotional banners.
