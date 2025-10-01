@@ -1,50 +1,55 @@
-# Welcome to your Expo app 👋
+# 👗 Glamora Fashion App (Frontend)
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A mobile shopping app built with **React Native** and **Expo**, providing a full-featured fashion shopping experience.  
+This project includes **Welcome, Login, Home, Product, Profile, Cart, Categories pages**, and promotional banners.
 
-## Get started
+---
 
-1. Install dependencies
+## ⚡ Features
 
-   ```bash
-   npm install
-   ```
+- 👋 **Welcome Screen** – App introduction and navigation  
+- 🔑 **Login & Register Screen** – User authentication  
+- 🏠 **Home Page** – Browse featured products and categories  
+- 🛍️ **Product Page** – Product details with images, description, and ratings  
+- 👤 **Profile Page** – User account information  
+- 🛒 **Cart Page** – View selected items and checkout  
+- 🗂️ **Categories Page** – Browse products by category  
+- 🖼️ **Posters / Promotions** – Display banners and promotional content  
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 📸 Screenshots
 
-In the output, you'll find options to open the app in a
+<p align="center">
+  <img src="screenshots/welcome.jpg" width="200" />
+  <img src="screenshots/login.jpg" width="200" />
+  <img src="screenshots/homepage.jpg" width="200" />
+  <img src="screenshots/productdetails.jpg" width="200" />
+</p>
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+<p align="center">
+  <img src="screenshots/profile.jpg" width="200" />
+  <img src="screenshots/cart.jpg" width="200" />
+  <img src="screenshots/products.jpg" width="200" />
+  <img src="screenshots/mens-wear.jpg" width="200" />
+  <img src="screenshots/women-wear.jpg" width="200" />
+  <img src="screenshots/shoes.jpg" width="200" />
+</p>
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
+---
 
-When you're ready, run:
+## 🛠️ Tech Stack
 
-```bash
-npm run reset-project
-```
+- **React Native** – Mobile app development  
+- **Expo** – React Native framework for faster development  
+- **JavaScript (ES6+)**  
+- **React Navigation** – Navigation between screens  
+- **Axios / Fetch API** – Backend API integration  
+- **react-native-responsive-screen** – Responsive layouts for multiple devices  
+- **@expo/vector-icons** – Icons throughout the app  
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## 📁 Project Structure
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
